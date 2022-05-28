@@ -1,2 +1,2 @@
-# AZO-vS-EGX30-vs-EGX30TR
+# AZO-vs-EGX30-vs-EGX30TR
 Comparing an actively managed mutual fund against a benchmark index
